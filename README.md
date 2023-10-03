@@ -24,7 +24,7 @@
 | ------- | ----------| ----- | ------ |--------- |
 | Samsara | Accel, Tiger Global | [Software Engineer (New Grad)](https://boards.greenhouse.io/samsara/jobs/5273880?gh_jid=5273880?utm_source=CarbosJobs) | ✅ | September 07, 2023 |
 | Whatnot | A16Z, Tiger Global | [Software Engineer, 2024 New Grad](https://boards.greenhouse.io/whatnot/jobs/4957329004?utm_source=CarbosJobs) | ✅ | September 07, 2023 |
-| HubSpot | Accel, Google Ventures, Salesforce Ventures | [Software Engineer (New Grad)](https://www.hubspot.com/careers/jobs/5335674?hubs_signup-cta=careers-apply?utm_source=CarbosJobs) | ✅ | September 07, 2023 |
+| HubSpot | Accel, Google Ventures, Salesforce Ventures | [Software Engineer (New Grad)](https://www.hubspot.com/careers/jobs/5335674?hubs_signup-cta=careers-apply?utm_source=CarbosJobs) | ❌ | September 07, 2023 |
 | Vanguard | Google Ventures, Kleiner Perkins, Sequoia | [Junior Network Engineer](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Wayne-PA/Junior-Network-Engineer_156692-1?utm_source=CarbosJobs) | ✅ | September 07, 2023 |
 | MongoDB | Accel, Greylock, Sequoia | [Junior Support Engineer, Salesforce](https://www.mongodb.com/careers/job/?gh_jid=5326474?utm_source=CarbosJobs) | ✅ | September 05, 2023 |
 | SeatGeek | Tiger Global | [Application Security Engineer - New Grad](https://seatgeek.com/jobs/2387032?gh_jid=2387032?utm_source=CarbosJobs) | ✅ | September 01, 2023 |
